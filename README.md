@@ -1,5 +1,5 @@
 # python-code-of-Ulvi-Mahmudlu
-stat 112 final project
+
 
 import pandas as pd
 import matplotlib.pyplot as plt
